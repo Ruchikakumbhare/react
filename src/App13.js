@@ -1,5 +1,5 @@
 import React from "react";
-// import Greet from "./greet";
+
 
 function App13(){
     const headerStying = {
@@ -12,4 +12,5 @@ function App13(){
         <p style={{color:'red',backgroundColor :'pink'}}>welcome to React class</p>
     </div>
 }
+
 export default App13;
