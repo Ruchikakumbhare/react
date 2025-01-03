@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
+
 // import App from './App';
 // import App2 from './app2';
 // import App3 from './app3';
@@ -18,7 +19,15 @@ import ReactDOM from 'react-dom/client';
 // import App15 from './App15';
 // import Counter from './counter';
 // import DateCounter from './dateCounter';
-import App16 from './App16';
+// import App16 from './App16';
+// import NumberC from './numberC';
+// import App17 from './App17';
+// import App19 from './App19'
+// import App20 from './App20';
+import App21 from './App21';
+
+
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -41,7 +50,13 @@ root.render(
 {/* <App15></App15> */}
 {/* <Counter></Counter> */}
 {/* <DateCounter></DateCounter> */}
-<App16></App16>
+{/* <App16></App16> */}
+{/* <NumberC></NumberC> */}
+{/* <App17></App17> */}
+{/* <App19></App19>   */}
+
+{/* <App20></App20> */}
+<App21></App21>
   </React.StrictMode>
 );
 
