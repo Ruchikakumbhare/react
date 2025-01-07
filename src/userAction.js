@@ -1,7 +1,5 @@
 //  user action Js
 
-
-
 import { data } from "@remix-run/router";
 import { fetchUserRequest, fetchUserSuccess, fetchUserFailuer } from "./userReducer";
 

@@ -3,7 +3,7 @@ import React , {useRef , useState}from "react";
 function App21(){
     const renderCount = useRef(0)
     const [text,setText] = useState("")
-    // const [renderCount , renderCountFn] = useState(0)
+   
     renderCount.current = renderCount.current+1
 
 return (

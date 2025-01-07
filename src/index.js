@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import ParentC from './ParentC';
 
 
 // import App from './App';
@@ -24,7 +25,9 @@ import ReactDOM from 'react-dom/client';
 // import App17 from './App17';
 // import App19 from './App19'
 // import App20 from './App20';
-import App21 from './App21';
+// import App21 from './App21';
+
+// import Parent from './parent';
 
 
 
@@ -56,7 +59,9 @@ root.render(
 {/* <App19></App19>   */}
 
 {/* <App20></App20> */}
-<App21></App21>
+{/* <App21></App21> */}
+{/* <Parent></Parent> */}
+<ParentC></ParentC>
   </React.StrictMode>
 );
 

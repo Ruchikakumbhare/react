@@ -21,3 +21,4 @@ export default App20;
 // useEffect is used to perform side effects in functional components. Side effects include data fetching, subscriptions, or manually changing the DOM.
 // useReducer is used to manage complex state logic in functional components. It is an alternative to useState and is inspired by Redux.
 // useRef is used to create a mutable reference that persists across renders. It can hold a reference to a DOM element or store a mutable value.
+// component to component data pass krne  --prop drilling
