@@ -1,10 +1,6 @@
-//  prop drilling - yes
-//  global storage 
-//  custom hooks 
-//  event emitters
-//  local storage
 
-import React, { useState } from "react";
+
+import React from "react";
 
 const GrandChild = ({message}) =>{
     return(
@@ -14,4 +10,10 @@ const GrandChild = ({message}) =>{
         </div>
     )
 }
-export default GrandChild
+export default GrandChild;
+
+//  prop drilling - yes
+//  global storage 
+//  custom hooks 
+//  event emitters
+//  local storage
